@@ -1,3 +1,6 @@
+blogvenv/
+
 .idea/
+.vscode
 __pycache__/
 blog.iml
